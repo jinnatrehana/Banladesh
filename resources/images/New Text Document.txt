@@ -1,0 +1,33 @@
+
+
+
+
+  <!--
+    <div class="container_wrapper">
+        <div class="container">
+          
+        </div>
+    </div>
+  -->
+  <!--  
+          <div id="common_sub_heading">
+            <h3>about us</h3>
+            <div class="rocket">
+              <div class="rocket_left">
+                <p class="roll_1"></p>
+                <p class="roll_2"></p>
+              </div>
+              <div class="rocket_img">
+                <img
+                  src="resources/images/rocket_logo.png"
+                  alt="rocket_logo"
+                />
+              </div>
+              <div class="rocket_right">
+                <p class="roll_1"></p>
+                <p class="roll_2"></p>
+              </div>
+            </div>
+          </div>
+          <div class="clr"></div>
+  -->
